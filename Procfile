@@ -1,0 +1,1 @@
+web: gunicorn estatereal.wsgi --log-file -
